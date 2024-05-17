@@ -1,0 +1,75 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endale Tenkir Geberesenbet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1, h2 {
+            margin-bottom: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MSc. Endale Tenkir Geberesenbet</h1>
+        <p>Welcome to my personal webpage</p>
+    </header>
+
+    <section class="container">
+        <h2>About Me</h2>
+        <p>I'm MSc. Endale Tenkir Geberesenbet, a person passionate about self-development, psychology, history, and spending time in nature with my small family and friends. I enjoy reading books, listening to podcasts, watching documentaries, and exploring the world around me.</p>
+    </section>
+
+    <section class="container">
+        <h2>Interests</h2>
+        <ul>
+            <li>Self-development</li>
+            <li>Psychology</li>
+            <li>History</li>
+            <li>Biographies</li>
+            <li>Nature</li>
+            <li>Spending time with family and friends</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Designed with ❤️ by MSc. Endale Tenkir Geberesenbet</p>
+    </footer>
+</body>
+</html>
+```
